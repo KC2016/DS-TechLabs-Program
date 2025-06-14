@@ -2,10 +2,10 @@
 Description of my role and contributions to the GeoFree app project during the Data Science track at TechLabs, 2023.
 
 My duties:
-- Analysis of Ordnung data
+- [Analysis of Ordnung data](https://github.com/KC2016/DS-TechLabs-Program/blob/main/data_analysis.md)
 - Features:
-  - Reccommendation system
-  - Classification system
+  - [Reccommendation system](https://github.com/KC2016/DS-TechLabs-Program/blob/main/reccommendations_system.md)
+  - [Classification system](https://github.com/KC2016/DS-TechLabs-Program/blob/main/classification_system.md)
 
 [Blog](https://github.com/KC2016/wt23-geofree/blob/main/BLOG.md#data-science)
 [Prototype](https://superlative-blancmange-aaefdc.netlify.app/)
