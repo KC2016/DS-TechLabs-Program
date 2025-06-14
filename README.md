@@ -1,5 +1,5 @@
-# DS-TechLabs-Program, 2023
-Description of my role and contributions to the GeoFree app project during the Data Science track at TechLabs.
+# DS-TechLabs-Program
+Description of my role and contributions to the GeoFree app project during the Data Science track at TechLabs, 2023.
 
 My duties:
 - Analysis of Ordnung data
